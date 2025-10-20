@@ -1,2 +1,10 @@
 
 .DS_Store
+# macOS
+.DS_Store
+**/.DS_Store
+# Xcode user data
+*.xcuserstate
+*.xcuserdatad/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
