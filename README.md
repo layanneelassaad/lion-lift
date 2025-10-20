@@ -1,4 +1,4 @@
-# Lion Lift — Airport Carpool Matching for Students (iOS)
+# Lion Lift: Airport Carpool Matching for Columbia Students (iOS)
 
 **Lion Lift** helps students share rides to/from NYC airports: enter your flight, get matched with peers on similar schedules, chat, and split the cost.
 
