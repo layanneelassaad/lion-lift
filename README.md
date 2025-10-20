@@ -33,10 +33,10 @@
 - Enable your chosen Auth providers (e.g., Email/Password, Sign in with Apple).
 - Create Firestore (or RTDB) and set permissive rules for dev; lock down for prod.
 
-  3. Dependencies (SPM)
+3. Dependencies (SPM)
   - Xcode → File → Add Packages… → https://github.com/firebase/firebase-ios-sdk
   - Add Auth and Firestore (or Database) as needed.
  
-  4. Build & Run
+ 4. Build & Run
   - Select a simulator/device → Run.
   - On first launch: sign in → add flight → get matches → chat & coordinate.
